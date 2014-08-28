@@ -1,0 +1,6 @@
+[submodule "Screenshots/Sea/Vendor/Quick"]
+	path = Screenshots/Sea/Vendor/Quick
+	url = git@github.com:Quick/Quick.git
+[submodule "Screenshots/Sea/Vendor/Nimble"]
+	path = Screenshots/Sea/Vendor/Nimble
+	url = git@github.com:Quick/Nimble.git
